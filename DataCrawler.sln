@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataCrawler", "DataCrawler.csproj", "{88D44C02-AB22-4894-A28F-6B4C209E936D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88D44C02-AB22-4894-A28F-6B4C209E936D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88D44C02-AB22-4894-A28F-6B4C209E936D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88D44C02-AB22-4894-A28F-6B4C209E936D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88D44C02-AB22-4894-A28F-6B4C209E936D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B4CFC18-3309-48F6-890B-7554AB750357}
+	EndGlobalSection
+EndGlobal
