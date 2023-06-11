@@ -1,5 +1,5 @@
 # IntroductionToAI-Project
-** This is our group's data mining project in the course of Introduction to artificial intelligence.**
+**This is our group's data mining project in the course of Introduction to artificial intelligence.**
 
 Many businesses/agencies are interested in people's comments/reviews about a product or a certain issue. This feedback helps businesses/agencies have feedback to create positive results and limit negative ones. Data mining, also known as knowledge discovery in databases, uses a variety of statistical tools and artificial intelligence (such as neural networks or machine learning) with database management and databases to analyze big data. Data collection techniques have been widely applied to problems in industry, science, and engineering, and it is believed that collecting data will profoundly impact our lives. However, the field of data collection is still quite inaccessible to everyone because of its inherent complexity.
 
